@@ -1,4 +1,4 @@
-#Jacob Schauer Predictive Modeling
+# Jacob Schauer Predictive Modeling
 
 [D3 Men's Basketball Predictive Ratings](https://jacob-schauer-20.github.io/D3Ratings.html)
 
