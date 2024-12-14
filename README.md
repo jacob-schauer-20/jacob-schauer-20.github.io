@@ -6,4 +6,4 @@
 
 [NBA MVP Predictions](https://jacob-schauer-20.github.io/MVP.html)
 
-[Test Ratings]('https://jacob-schauer-20.github.io/D3RatingsTest.html')
+[Test Ratings](https://jacob-schauer-20.github.io/D3RatingsTest.html)
